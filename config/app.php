@@ -166,6 +166,7 @@ return [
          * Package Service Providers...
          */
         Firebird\FirebirdServiceProvider::class,
+        Barryvdh\Debugbar\ServiceProvider::class,
 
         /*
          * Application Service Providers...
