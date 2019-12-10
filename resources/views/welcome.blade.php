@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Messtechnik</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -85,13 +85,13 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Relatório EPE</a>
-                    <a href="https://laracasts.com">Monitoramento</a>
+                    <a href="#">Relatório EPE</a>
+                    <a href="#">Monitoramento</a>
                     <a href="#">Notícias</a>
-                    <a href="http://www.messtechnik.com">Site</a>
-                    <a href="http://192.168.1.253">NAS</a>
-                    <a href="https://stackoverflow.com/">SO</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a target="_blank" rel="noopener noreferrer" href="http://www.messtechnik.com.br">Site</a>
+                    <a target="_blank" rel="noopener noreferrer" href="http://192.168.1.253">NAS</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/">SO</a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Daniwenzel/mms">GitHub</a>
                 </div>
             </div>
         </div>
