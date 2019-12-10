@@ -165,6 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Firebird\FirebirdServiceProvider::class,
 
         /*
          * Application Service Providers...

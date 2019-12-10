@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fa503b104f700e4337a4bf209a56bc8a",
+    "content-hash": "265205cb92a30e71fbb35f5bc79ca59f",
     "packages": [
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -1428,6 +1428,22 @@
                 "uuid"
             ],
             "time": "2019-12-01T04:55:27+00:00"
+        },
+        {
+            "name": "sim1984/laravel-firebird",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sim1984/laravel-firebird",
+                "reference": "master"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    ""
+                ]
+            },
+            "time": "2019-08-09T12:39:54+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -4950,7 +4966,9 @@
     ],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "sim1984/laravel-firebird": 20
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
